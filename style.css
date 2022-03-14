@@ -11,3 +11,34 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+#cm{
+    width: 5cm;
+    height: 5cm;
+    background-color: green;
+}
+
+#mm{
+    width: 50mm;
+    height: 50mm;
+    background-color: aqua;
+}
+#in{
+    width: 2in;
+    height: 2in;
+    background-color:black;
+}
+#px{
+    width: 190px;
+    height: 190px;
+    background-color: blue;
+}
+#pt{
+    width: 190pt;
+    height: 190pt;
+    background-color:darkblue;
+}
+#pc{
+    width: 12pc;
+    height: 12pc;
+    background-color:fuchsia;
+}
